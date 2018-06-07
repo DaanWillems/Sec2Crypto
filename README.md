@@ -12,5 +12,5 @@ De standaard crypto packages van golang hebben support voor AES encryption, deze
   Het bericht wordt opgehaald aan de hand van de gebruikers naam. 
   De key wordt weer gegenegeerd met MD5 en de content wordt ontcijferd.
   
-De data wordt opgeslagen met Scrribble, een kleine JSON database. 
+De data wordt opgeslagen met Scribble, een kleine JSON database. 
  
