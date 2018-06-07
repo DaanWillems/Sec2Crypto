@@ -54,6 +54,8 @@ func getMessage(user string) string {
 		fmt.Println("Error", err)
 	}
 
+	fmt.Println(message)
+
 	return message.Content
 }
 
