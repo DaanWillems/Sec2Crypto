@@ -1,7 +1,7 @@
 # Sec2Crypto
 
-De applicatie is geschreven in Golang. Er wordt gebruik gemaakt van de in de taal ingebouwde webserver om te serven. 
-De executable binary is meegecommit zodat er niks gecompiled hoeft te worden
+De applicatie is geschreven in Golang. Er wordt gebruik gemaakt van de in de taal ingebouwde webserver om te de pagina te hosten. 
+De executable binary is meegecommit zodat er niks gecompiled hoeft te worden om te testen. De server draait op port: 9090
 
 De standaard crypto packages van golang hebben support voor AES encryption, deze zijn dus ook gebruikt om de data te versleutelen.
 
