@@ -1,5 +1,6 @@
 # Sec2Crypto
-(Huiswerk opdracht voor Avans Sec2)
+(Huiswerk opdracht voor Avans Sec2) 
+
 De applicatie is geschreven in Golang. Er wordt gebruik gemaakt van de in de taal ingebouwde webserver om te de pagina te hosten. 
 De executable binary is meegecommit zodat er niks gecompiled hoeft te worden om te testen. De server draait op port: 9090
 
