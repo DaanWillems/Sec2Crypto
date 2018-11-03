@@ -1,5 +1,5 @@
 # Sec2Crypto
-
+(Huiswerk opdracht voor Avans Sec2)
 De applicatie is geschreven in Golang. Er wordt gebruik gemaakt van de in de taal ingebouwde webserver om te de pagina te hosten. 
 De executable binary is meegecommit zodat er niks gecompiled hoeft te worden om te testen. De server draait op port: 9090
 
@@ -11,7 +11,7 @@ De standaard crypto packages van golang hebben support voor AES encryption, deze
   
   <b>Ophalen</b>
   Het bericht wordt opgehaald aan de hand van de gebruikers naam. 
-  De key wordt weer gegenegeerd met MD5 en de content wordt ontcijferd.
+  De key wordt weer gegenereerd met MD5 en de content wordt ontcijferd.
   
 De data wordt opgeslagen met Scribble, een kleine JSON database. 
  
